@@ -10,6 +10,7 @@ namespace _04___Sum_Numbers
     {
         static void Main(string[] args)
         {
+            //fdgdffd
 
             int countNum = int.Parse(Console.ReadLine());
 
